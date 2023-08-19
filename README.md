@@ -1,4 +1,3 @@
-Hi, I’m KyawLinThu
-I’m currently studying C programming
+A front-end developer learning react.js currently
 
 

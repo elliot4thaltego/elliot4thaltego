@@ -8,7 +8,8 @@
 - 📚 I’m currently learning everything about Frontend technologies
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2BJSMvOGABRxokHKB0OI8i?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ---
 
@@ -34,14 +35,3 @@
 <br/>
 
 ---
-
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
-
-
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
-
-Last Edited on: 23/09/2020

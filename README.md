@@ -6,7 +6,7 @@
 
 ## I'm a self-taught developer
 
-- 👨‍💻 I’m currently learning React.js and planning to work my way up to MERN Stack.
+- 👨‍💻 I’m currently learning React.js and considering to work my way up to MERN Stack slowly but surely.
 
 <br />
 

@@ -1,12 +1,12 @@
-# Hi , I'm Kyaw Lin Thu <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi, I am Kyaw Lin Thu <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
-## I'm a self-taught developer
+## I am a web developer
 
-- 👨‍💻 I’m currently learning React.js and considering to work my way up to MERN Stack slowly but surely.
+- 👨‍💻 I love to code, mainly in React.js.
 
 <br />
 
